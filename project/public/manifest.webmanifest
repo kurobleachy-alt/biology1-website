@@ -1,0 +1,19 @@
+{
+  "name": "Biology 1 E-Learning",
+  "short_name": "Biology 1",
+  "description": "Biology 1 E-Learning — lessons, activities, quizzes and offline support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f0fdf4",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
